@@ -18,6 +18,7 @@
 /*.Rcheck/
 
 # RStudio files
+.Rproj
 .Rproj.user/
 
 # produced vignettes
@@ -53,4 +54,5 @@ vignettes/*.pdf
 *README_cache/
 #*README_files/
 
-
+# Original csv file
+SABE_homerange.csv
