@@ -3,6 +3,7 @@
 This is a repository containing a working dataset for the teaching of an undergraduate course at the University of Hong Kong. 
 
 ## General Information
+The dataset was collected by Wing Sing Chan as part of a research study to investigate the spatial ecology of freshwater turtles in Hong Kong.
 
 __Project Title__: Movement ecology of Beale's eyed turtles (_Sacalia bealei_)
 
@@ -15,7 +16,7 @@ __Geographical location of data collection__: Hong Kong
 ## Project Description
 Asian turtle populations have declined substantially over past decades due largely to over-collection of wild individuals for food consumption, traditional medicines and pet trade. With many being threatened to extinction, the needs to understand the spatial ecology of those at risk has been pivotal in delineating species specific management strategy and conservation plan. 
 
-In this study, we aimed to characterize home range, movement patterns, and microhabitat use of Beale’s eyed turtles (_Sacalia bealei_), an endangered species listed by the International Union for Conservation and Nature (IUCN). Across the 2-year study period, we monitored 25 individual _S. belaei_ (12 females, 8 juvniles, and 5 males) within a natural stream in Hong Kong. Each individual was outfitted with a radio transmitter (model SOPR-2190; model SOPR-2038, Wildlife Materials International Inc., Illinois) and relocated two to four times per week using a telemetry receiver (IC-R10, ICOM Inc., Kirdland, WA) and a 3-element Yagi antenna (Biotrack Ltd. Wareham, United Kingdom). Location of individual turtle was determined by triangulation and identified with a GPS coordinate using Garman GPSMAP® 62s. Date, time, weather information, habitat type, microhabitat measurements and behaviour of individual turtles were noted.
+In this study, we aimed to characterize home range, movement pattern, and microhabitat use of Beale’s eyed turtles (_Sacalia bealei_), an endangered species listed by the International Union for Conservation and Nature (IUCN). During the 2-year study period, we monitored 25 individual _S. belaei_ (12 females, 8 juvniles, and 5 males) within a natural stream in Hong Kong. Each individual was outfitted with a radio transmitter (model SOPR-2190; model SOPR-2038, Wildlife Materials International Inc., Illinois) and relocated two to four times per week using a telemetry receiver (IC-R10, ICOM Inc., Kirdland, WA) and a 3-element Yagi antenna (Biotrack Ltd. Wareham, United Kingdom). Location of individual turtle was determined by triangulation and identified with a GPS coordinate using Garman GPSMAP® 62s. Date, time, weather information, habitat type, microhabitat measurements and behaviour of individual turtles were noted.
 
 ## Dataset Description
 The file `SABE_homerange2.csv` in the repository is a summarised dataset that contained __biometric data__ and __home range characterization__ of _S. bealei_ calculated from the relocation data collected during the period from May 2020 to Aug 2021. Variables in the dataset include the followings, 
