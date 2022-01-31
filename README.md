@@ -1,12 +1,26 @@
 # Environmental Data Analysis - Datasets for Lab 2 on the Distribution and Descriptive Statistics
 
-This is a repository containing dataset collected by Mr. Chan Wing Sing as part of his research study on the spatial ecology of freshwater turtles in Hong Kong. The presented dataset has modified accordingly to and are intended only for the purpose of teaching for an undergraduate course - ENVS2002 Environmental Data Analysis at the University of Hong Kong. 
+This is a repository containing a working dataset for the teaching of an undergraduate course at the University of Hong Kong. 
+
+The dataset was collected by Wing Sing Chan as part of a research study to investigate the spatial ecology of freshwater turtles in Hong Kong and has been modified to the purpose of teaching. 
+
+## General Information
+
+__Project Title__: Movement ecology of Beale's eyed turtles (_Sacalia bealei_)
+
+__Author__: Wing Sing Chan
+
+__Dates of data collection__: 2020-2021
+
+__Geographical location of data collection__: Hong Kong
 
 ## Project Description
-We monitored the movement pattern, and habitat use of S. bealei through radio telemetry from June 2020 to May 2021. All study animals will be outfitted with a radio transmitter (model SOPR-2190; model SOPR-2038, Wildlife Materials International Inc., Illinois) with the use of epoxy putty glue. Relocation data of each tagged individual will be collected two to four times per week using a telemetry receiver (IC-R10, ICOM Inc., Kirdland, WA) and a 3-element Yagi antenna (Biotrack Ltd. Wareham, United Kingdom). Tracking events will alternate between day and night. At each radio location, location of individual turtle will be determined by triangulation and identified with a GPS coordinate using Garman GPSMAP® 62s. Date, time, weather information, habitat type, microhabitat measurements and behaviour of individual turtles will also be recorded.
+Asian turtle populations have declined substantially over past decades due largely to over-collection of wild individuals for food consumption, traditional medicines and pet trade. With many being threatened to extinction, the needs to understand the spatial ecology of those at risk has been pivotal in delineating species specific management strategy and conservation plan. 
+
+In this study, our objectives are to characterize home range, movement patterns, and microhabitat use of Beale’s eyed turtles (_Sacalia bealei_). Across the 2-year study period, we monitored 25 individual _S. belaei_ (12 females, 8 juvniles, and 5 males) for at least three consecutive months within a natural stream in Hong Kong. Each individual was outfitted with a radio transmitter (model SOPR-2190; model SOPR-2038, Wildlife Materials International Inc., Illinois) and relocated two to four times per week using a telemetry receiver (IC-R10, ICOM Inc., Kirdland, WA) and a 3-element Yagi antenna (Biotrack Ltd. Wareham, United Kingdom). At each radio location, location of individual turtle was determined by triangulation and identified with a GPS coordinate using Garman GPSMAP® 62s. Date, time, weather information, habitat type, microhabitat measurements and behaviour of individual turtles were noted.
 
 ## Dataset Description
-The file `SABE_homerange2.csv` in the repository contains __biometric data__ and __home range characterization__ of _S. bealei_ measured during the period lasting from May 2020 to Aug 2021. Variables include the followings, 
+The file `SABE_homerange2.csv` in the repository is a summarised dataset that contained __biometric data__ and __home range characterization__ of _S. bealei_ measured during the period from May 2020 to Aug 2021. Variables include the followings, 
 
 - `ID` is a unique number assigned for each captured individual and identified through a marginal scale notching system developed by Cagle (1939).
 
@@ -26,11 +40,11 @@ The file `SABE_homerange2.csv` in the repository contains __biometric data__ and
 
 - `MCP_Lv` defines the percentage of the points used for the drawing of the MCP. Here, only 100% MCPs are presented in the dataset
 
-- `Area_m2` is the calculated home range size for the corresponding individuals of the specified season. Note foraging periods for the calculated home range size may not 
+- `Area_m2` is the calculated home range size (m^2^) for the corresponding individuals of the specified season. 
 
 ## Contact Information
-This work is not the direct research output of the study project. The dataset constituted a part of an ongoing research project and has been modified to suit the purpose of teaching. If you have any actual concern related to the research project or the dataset itself, please contact Wing Sing Chan at wschan19@connect.hku.hk. 
+This work is not the direct research output of the study project. The dataset constituted only a part of an ongoing research project and has been modified to suit the purpose of teaching. If you have any actual concern related to the research project or the dataset itself, please contact he project author Wing Sing Chan at wschan19@connect.hku.hk. 
 
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution - Non-Commercial 4.0 International License</a>.
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commos License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution - Non-Commercial 4.0 International License</a>.<br />
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commos License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
