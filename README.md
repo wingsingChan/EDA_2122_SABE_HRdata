@@ -3,8 +3,6 @@
 This is a repository containing a working dataset for the teaching of an undergraduate course at the University of Hong Kong. 
 
 ## General Information
-The dataset was collected by Wing Sing Chan as part of a research study to investigate the spatial ecology of freshwater turtles in Hong Kong.
-
 __Project Title__: Movement ecology of Beale's eyed turtles (_Sacalia bealei_)
 
 __Author__: Wing Sing Chan
@@ -16,10 +14,10 @@ __Geographical location of data collection__: Hong Kong
 ## Project Description
 Asian turtle populations have declined substantially over past decades due largely to over-collection of wild individuals for food consumption, traditional medicines and pet trade. With many being threatened to extinction, the needs to understand the spatial ecology of those at risk has been pivotal in delineating species specific management strategy and conservation plan. 
 
-In this study, we aimed to characterize home range, movement pattern, and microhabitat use of Beale’s eyed turtles (_Sacalia bealei_), an endangered species listed by the International Union for Conservation and Nature (IUCN). During the 2-year study period, we monitored 25 individual _S. belaei_ (12 females, 8 juvniles, and 5 males) within a natural stream in Hong Kong. Each individual was outfitted with a radio transmitter (model SOPR-2190; model SOPR-2038, Wildlife Materials International Inc., Illinois) and relocated two to four times per week using a telemetry receiver (IC-R10, ICOM Inc., Kirdland, WA) and a 3-element Yagi antenna (Biotrack Ltd. Wareham, United Kingdom). Location of individual turtle was determined by triangulation and identified with a GPS coordinate using Garman GPSMAP® 62s. Date, time, weather information, habitat type, microhabitat measurements and behaviour of individual turtles were noted.
+In this study, we aimed to characterize home range, movement pattern, and microhabitat use of Beale’s eyed turtles (_Sacalia bealei_), an endangered species listed by the International Union for Conservation and Nature (IUCN). During the 2-year study period, we monitored 25 individual _S. belaei_ (12 females, 8 juvniles, and 5 males) within a natural stream in Hong Kong. Each individual was outfitted with a radio transmitter (model SOPR-2190; model SOPR-2038, Wildlife Materials International Inc., Illinois) and relocated two to four times per week using a telemetry receiver (IC-R10, ICOM Inc., Kirdland, WA) and a 3-element Yagi antenna (Biotrack Ltd. Wareham, United Kingdom). Location of individual turtle was determined by triangulation and identified with a GPS coordinate using Garman GPSMAP® 62s. Date, time, weather information, habitat type, microhabitat measurements and behaviour of individual turtles were recorded.
 
 ## Dataset Description
-The file `SABE_homerange2.csv` in the repository is a summarised dataset that contained __biometric data__ and __home range characterization__ of _S. bealei_ calculated from the relocation data collected during the period from May 2020 to Aug 2021. Variables in the dataset include the followings, 
+The file `SABE_homerange2.csv` in this repository is a summarised dataset that contained __biometric data__ and __home range characterization__ of _S. bealei_ calculated from the relocation data collected during the period from May 2020 to Aug 2021. Variables in the dataset include the followings, 
 
 - `ID` is a unique number assigned for each captured individual and identified through a marginal scale notching system developed by Cagle (1939).
 
@@ -39,10 +37,10 @@ The file `SABE_homerange2.csv` in the repository is a summarised dataset that co
 
 - `MCP_Lv` defines the percentage of the points used for the drawing of the MCP. Here, only 100% MCPs are presented in the dataset
 
-- `Area_m2` is the calculated home range size (m^2^) for the corresponding individuals of the specified season. 
+- `Area_m2` is the calculated home range size (m<sup>2</sup>) for the corresponding individuals of the specified season. 
 
 ## Contact Information
-This work is not the direct research output of the study project. The dataset constituted only a part of an ongoing research project and has been modified to suit the purpose of teaching. If you have any actual concern related to the research project or the dataset itself, please contact he project author Wing Sing Chan at wschan19@connect.hku.hk. 
+This work is not the direct research output of the study project. The dataset constituted only a part of an ongoing research project and has been modified to suit the purpose of teaching. If you have any actual concern related to the research project or the dataset itself, please contact the project author Wing Sing Chan at wschan19@connect.hku.hk. 
 
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution - Non-Commercial 4.0 International License</a>.<br />
