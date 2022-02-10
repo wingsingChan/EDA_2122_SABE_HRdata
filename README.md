@@ -2,6 +2,8 @@
 
 This is a repository containing a working dataset for the teaching of an undergraduate course at the University of Hong Kong. 
 
+> Note: To download the file, press the green `Code` button and then click `Download ZIP`
+
 ## General Information
 __Project Title__: Movement ecology of Beale's eyed turtles (_Sacalia bealei_)
 
